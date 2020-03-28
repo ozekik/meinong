@@ -8,7 +8,7 @@ footnotes: true
 
 # Über Gegenstandstheorie
 
-Von Alexius Meinong, In *Untersuchungen zur Gegenstandstheorie und Psychologie*, hg. von A. Meinong, 1904, S. 1–50.
+Von Alexius Meinong, In *Untersuchungen zur Gegenstandstheorie und Psychologie*, hg. von A. Meinong, J. A. Barth, 1904, S. 1–50.
 
 \[Transcribed by [Kentaro Ozeki](https://ozekik.github.io/) from a copy of [*Abhandlungen zur Erkenntnistheorie und Gegenstandstheorie*](https://archive.org/details/gesammelteabhan04unkngoog/) by A. Meinong, J. A. Barth, 1913, pp. 481–530. This document is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Other details are available on [GitHub](https://github.com/ozekik/meinong).\]
 
