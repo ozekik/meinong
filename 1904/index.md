@@ -58,7 +58,7 @@ Eine Wissenschaft vom Gegenstande des Erkennens: besagt dies denn mehr als die F
 Anders ausgedrückt: wird da nicht nach einer Wissenschaft gefragt, die entweder durch die Gesamtheit der Wissenschaften ausgemacht wird, oder noch einmal zu leisten hätte, was die sämtlichen anerkannten Wissenschaften zusammen ohnehin leisten?
 
 Man wird sich zu hüten haben, auf solche Erwägungen hin den Gedanken einer allgemeinen Wissenschaft neben den Sonderwissenschaften für wirklich ungereimt zu halten.
-Was den Besten aller Zeiten als letztes und vor allem würdiges Ziel ihres Wissenstriebes vorgeschwebt hat, jenes Erfassen des Weltganzen nach seinem Wesen und seinen letzten Gründen, das kann doch nur vSache einer umfassenden Wissenschaft sein *neben* den Einzelwissenschaften.
+Was den Besten aller Zeiten als letztes und vor allem würdiges Ziel ihres Wissenstriebes vorgeschwebt hat, jenes Erfassen des Weltganzen nach seinem Wesen und seinen letzten Gründen, das kann doch nur Sache einer umfassenden Wissenschaft sein *neben* den Einzelwissenschaften.
 Wirklich hat man sich unter dem Namen der Metaphysik auch nichts anderes gedacht als eine solche Wissenschaft: und sollten der getäuschten Hoffnungen, die sich an diesen Namen geknüpft haben und knüpfen werden, noch so viele sein, es ist nur unser intellektuelles Unvermögen und nicht die Idee dieser Wissenschaft, was daran die Schuld trägt.
 Darf man daraufhin aber etwa so weit gehen, kurzweg die Metaphysik als diejenige Wissenschaft anzusprechen, die die Bearbeitung des Gegenstandes als solchen resp. der Gegenstände in ihrer Gesamtheit zu ihrer natürlichen Aufgabe hat?
 
@@ -96,7 +96,8 @@ Aber die Einordnung alles Wissens in Natur- und Geisteswissenschaft trägt unte
 
 ## §3. Sosein und Nichtsein.
 
-Es unterliegt also keinem Zweifel: was Gegenstand des Erkennens sein soll, muß darum noch keineswegs existieren. Indes könnten die bisherigen Ausführungen immer noch der Vermutung Raum geben, die Existenz *könne* nicht nur durch den Bestand ersetzt werden, sondern *müsse* es auch, wo keine Existenz vorliegt.
+Es unterliegt also keinem Zweifel: was Gegenstand des Erkennens sein soll, muß darum noch keineswegs existieren.
+Indes könnten die bisherigen Ausführungen immer noch der Vermutung Raum geben, die Existenz *könne* nicht nur durch den Bestand ersetzt werden, sondern *müsse* es auch, wo keine Existenz vorliegt.
 Aber auch diese Einschränkung ist unstatthaft.
 Das lehrt ein Blick auf die beiden eigentümlichen Leistungen des Urteilens und Annehmens, die ich durch die Gegenüberstellung der „thetischen und synthetischen Funktion“ des Denkens[^7-1] festzuhalten versucht habe.
 Im ersteren Falle erfaßt das Denken ein Sein, im [8] zweiten ein „Sosein“, jedesmal natürlich ein Objektiv, das ganz verständlich dort als Seinsobjektiv, hier als Soseinsobjektiv bezeichnet werden mag.
