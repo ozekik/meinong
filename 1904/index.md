@@ -14,18 +14,18 @@ Von Alexius Meinong, In *Untersuchungen zur Gegenstandstheorie und Psychologie*,
 
 ## Inhalt
 
-* [§1. Die Frage](#§1-die-frage)
-* [§2. Das Vorurteil zugunsten des Wirklichen](#§2-das-vorurteil-zugunsten-des-wirklichen)
-* [§3. Sosein und Nichtsein](#§3-sosein-und-nichtsein)
-* [§4. Das Außersein des reinen Gegenstandes](#§4-das-außersein-des-reinen-gegenstandes)
-* [§5. Gegenstandstheorie als Psychologie](#§5-gegenstandstheorie-als-psychologie)
-* [§6. Gegenstandstheorie als Theorie der Erkenntnisgegenstände](#§6-gegenstandstheorie-als-theorie-der-erkenntnisgegenstände)
-* [§7. Gegenstandstheorie als „reine Logik“](#§7-gegenstandstheorie-als-reine-logik)
-* [§8. Gegenstandstheorie als Erkenntnistheorie](#§8-gegenstandstheorie-als-erkenntnistheorie)
-* [§9. Gegenstandstheorie als eigene Wissenschaft](#§9-gegenstandstheorie-als-eigene-wissenschaft)
-* [§10. Gegenstandstheorie in anderen Wissenschaften. Allgemeine und spezielle Gegenstandstheorie](#§10-gegenstandstheorie-in-anderen-wissenschaften-allgemeine-und-spezielle-gegenstandstheorie)
-* [§11. Philosophie und Gegenstandstheorie](#§11-philosophie-und-gegenstandstheorie)
-* [§12. Schlußwort](#§12-schlußwort)
+* [§1. Die Frage](#1-die-frage)
+* [§2. Das Vorurteil zugunsten des Wirklichen](#2-das-vorurteil-zugunsten-des-wirklichen)
+* [§3. Sosein und Nichtsein](#3-sosein-und-nichtsein)
+* [§4. Das Außersein des reinen Gegenstandes](#4-das-außersein-des-reinen-gegenstandes)
+* [§5. Gegenstandstheorie als Psychologie](#5-gegenstandstheorie-als-psychologie)
+* [§6. Gegenstandstheorie als Theorie der Erkenntnisgegenstände](#6-gegenstandstheorie-als-theorie-der-erkenntnisgegenstände)
+* [§7. Gegenstandstheorie als „reine Logik“](#7-gegenstandstheorie-als-reine-logik)
+* [§8. Gegenstandstheorie als Erkenntnistheorie](#8-gegenstandstheorie-als-erkenntnistheorie)
+* [§9. Gegenstandstheorie als eigene Wissenschaft](#9-gegenstandstheorie-als-eigene-wissenschaft)
+* [§10. Gegenstandstheorie in anderen Wissenschaften. Allgemeine und spezielle Gegenstandstheorie](#10-gegenstandstheorie-in-anderen-wissenschaften-allgemeine-und-spezielle-gegenstandstheorie)
+* [§11. Philosophie und Gegenstandstheorie](#11-philosophie-und-gegenstandstheorie)
+* [§12. Schlußwort](#12-schlußwort)
 
 ## §1. Die Frage.
 
@@ -254,7 +254,7 @@ Wer also die Gegenstände sozusagen vom Standpunkte des Erkennens aus wissensch
 ## §7. Gegenstandstheorie als „reine Logik“.
 
 Es entspricht altem Herkommen, dort, wo von einer wissenschaftlichen Bearbeitung des Erkennens die Rede ist, zunächst an die Logik zu denken; und wirklich sind erst in allerjüngster Zeit für einen ihrer Hauptteile, die sogenannte reine oder formale Logik[^20-1] Aufgaben gestellt worden[^20-2], die mit dem, was von einer theoretischen Bearbeitung der Gegenstände als solcher billig verlangt werden muß, in unverkennbarer Weise zusammen stimmen.
-Ich habe meine prinzipielle Zustimmung zu E. Husserl’s Eintreten gegen den „Psychologismus“ in der Logik bereits an an- derem Orte[^20-3] und zu einer Zeit ausgesprochen, da ich aus äußeren Gründen von dem umfangreichen Werke des genannten Autors nur eine ganz vorläufige und auch noch sehr unvollständige Kenntnis hatte nehmen können.
+Ich habe meine prinzipielle Zustimmung zu E. Husserl’s Eintreten gegen den „Psychologismus“ in der Logik bereits an anderem Orte[^20-3] und zu einer Zeit ausgesprochen, da ich aus äußeren Gründen von dem umfangreichen Werke des genannten Autors nur eine ganz vorläufige und auch noch sehr unvollständige Kenntnis hatte nehmen können.
 Heute, nachdem ich den Verdiensten der in Rede stehenden Publikation durch eingehendes Studium einigermaßen gerecht geworden zu sein hoffe, kann ich den Ausdruck meiner Zustimmung nicht nur durchaus aufrecht erhalten, sondern sie außer auf vieles andere auch auf jene „Aufgaben“ ausdehnen, und es ist da vielleicht nur ein Dissens von relativ [21] untergeordneter Wichtigkeit, wenn ich diese Aufgaben nur nicht gerade jener „reinen Logik“ zuweisen möchte.
 
 [^20-1]: Vgl. E. Husserl, „Logische Untersuchungen“, 2 Bde. Leipzig und Halle 1900 und 1901. Ausdrücklich identifiziert werden „reine“ und „formale“ Logik z. B. Bd. I, S. 252.
@@ -587,7 +587,7 @@ Aber natürlich gilt dabei das Prinzip weitestgehender Überzeugungsfreiheit; 
 Und hätten wir im folgenden Abgerundeteres, Einstimmigeres geboten, wir hätten es nur tun können um den Preis des Verlustes von Anregungen, die sich möglicherweise als die für die Weiterentwicklung der Gegenstandstheorie fruchtbarsten herausstellen könnten.
 
 Mindestens teilweise auf analoge Rücksichten geht ein anderer Mangel der beiden folgenden Beiträge zurück, der den Autoren derselben ebenfalls wohl bekannt ist.
-Auch die Literatur eines [49] Gegenstandes kann denjenigen, der an dessen Erforschung heran- tritt, einerseits zwar durch Anregung fördern, andererseits aber auch in ihm durch Suggestion entwicklungsfähige Keime ersticken.
+Auch die Literatur eines [49] Gegenstandes kann denjenigen, der an dessen Erforschung herantritt, einerseits zwar durch Anregung fördern, andererseits aber auch in ihm durch Suggestion entwicklungsfähige Keime ersticken.
 Darin liegt hoffentlich wenigstens ein Teil der Rechtfertigung dafür, daß ich als ein erstes Forschungsprinzip längst den Grundsatz befolge und lehre: erst beobachten und nachdenken, dann lesen.
 Aber dieser Grundsatz schließt, wie ich nicht verkennen kann, einigermaßen die Gefahr in sich, daß die Literaturbenutzung einmal auch zu kurz kommen könnte, namentlich, wenn der Abschluß einer Arbeit an eine bestimmte Zeit gebunden oder das Heranziehen der Literatur durch besondere Umstände erschwert ist.
 Beides ist für die folgenden gegenstandstheoretischen Untersuchungen eingetroffen.
